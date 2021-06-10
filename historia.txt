@@ -5,3 +5,5 @@ Tamara nació en Logroño.
 Estoy probando git con este archivo.
 
 Cómo terminar en Git partiendo de Diseño de Producto.
+
+Hoy soy diseñadora en NeuronUp.
