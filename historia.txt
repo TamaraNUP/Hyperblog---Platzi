@@ -2,4 +2,6 @@ Esta es la historia de Tamara.
 
 Tamara nació en Logroño.
 
-Hoy probaremos git con este archivo.
+Estoy probando git con este archivo.
+
+Cómo terminar en Git partiendo de Diseño de Producto.
